@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  2 18:30:00 2018
 
-@author: terry.mai
-"""
 
 global list
 list=[]

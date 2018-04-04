@@ -12,12 +12,14 @@ def row(n):
         return [1]
     else:
         for i in range(1,len(row(n-1))):
-            temp=row(n-1)[i]+row(n-1)[i-1]
             #rolling sum all the values with 2 windows from the previous row
+            #but we cannot include two boudary numbers 1 in this list
+            temp=row(n-1)[i]+row(n-1)[i-1]
             list.append(temp)
+            #append 1 for both front and rear of the list
         list.insert(0,1)
         list.append(1)
-        #append 1 from both front and rear
+        
         return list
     
 def printit(n):
@@ -27,4 +29,4 @@ def printit(n):
         
 printit(10)
 
-#    max2, max1, fill = 3,4, 1  #Change maximum capacity and final capacity    print("%d\t%d" % (jug1, jug2))    if jug2 == fill:        return    elif jug2 == max2:        pour(0, jug1)    elif jug1 != 0 and jug2 == 0:        pour(0, jug1)    elif jug1 == fill:        pour(jug1, 0)    elif jug1 < max1:        pour(max1, jug2)    elif jug1 < (max2-jug2):        pour(0, (jug1+jug2))    else:        pour(jug1-(max2-jug2), (max2-jug2)+jug2)
+#   

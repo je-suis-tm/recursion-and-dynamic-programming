@@ -53,4 +53,11 @@ def printit(n):
         print(i)
 
 printit(6)
-
+#the previous version:
+#[1]
+#[1,1]
+#[1,2,1]
+#this version:
+#['','',1,'','']
+#['',1,'',1,'','']
+#[1,'',2,'',1,'']

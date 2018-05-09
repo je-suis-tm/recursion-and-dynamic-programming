@@ -19,3 +19,5 @@ Its a free interactive book, quite good and quite difficult. I basically upload 
 5.Pascal Triangle
 
 6.Knapsack (Dynamic Programming)
+
+7.Edit Distance (Dynamic Programming)

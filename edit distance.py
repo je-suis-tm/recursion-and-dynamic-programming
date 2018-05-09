@@ -5,6 +5,21 @@ Created on Mon Mar 19 15:22:38 2018
 @author: Administrator
 """
 
+#this has nothing to do with recursion algorithm
+#it happened to be in the recursion chapter in my book
+#so i kept it under recursion
+#its about dynamic programming
+#its kinda tricky to understand
+
+#edit distance is to minimumize the steps transfering one string to another
+#there are three ways to transform a string, insert, delete and replace
+
+#the way to solve this problem, is very similar is to knapsack
+#assume we have two strings a and b
+#we build a matrix len(a)*len(b)
+#however, given lists start at index zero
+#our matrix should be (len(a)+1)*(len(b)+1)
+
 def edit(a,b):
     len_a=len(a)
     len_b=len(b)

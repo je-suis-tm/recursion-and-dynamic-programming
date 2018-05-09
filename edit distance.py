@@ -28,4 +28,24 @@ def edit(a,b):
                 
     return c[len_a][len_b]
 
-print(edit('asdad','gadfasf'))
+import random as rd
+
+
+    
+temp=rd.randint(1,20)
+temp1=rd.randint(1,20)
+alphabet='abcdefghijklmnopqrstuvwxyz'
+temp2=''
+temp3=''
+
+for n in range(temp):
+    temp2+=alphabet[rd.randint(0,25)]
+
+for o in range(temp1):
+    temp3+=alphabet[rd.randint(0,25)]
+
+
+
+
+print(temp2,temp3)
+print(edit(temp2,temp3))

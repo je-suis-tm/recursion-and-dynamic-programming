@@ -48,11 +48,11 @@ Created on Mon Mar 19 15:22:38 2018
 #the cumulated steps we have taken should be matrix[m-1][n]+1
 #for replacement, it is a lil bit tricky
 #there are two scenarios
-#if len(a)==len(b)
+#if a[m]==b[n]
 #it should be matrix[m-1][n-1]
-#we are replacing mth letter of string a with nth letter of string b
-#the process is simultaneous
+#we dont need any replacement at all
 #else, it should be matrix[m-1][n-1]+1
+#we replace mth letter of string a with nth letter of string b
 #after we managed to understand three different approaches
 #we want to take the minimum steps among these three approaches
 #throughout the iteration of different positions of both strings
@@ -61,16 +61,23 @@ def edit(a,b):
     len_a=len(a)
     len_b=len(b)
     
+    #this part is to create a matrix of len(a)*len(b)
+    #as lists start at index 0
+    #we get a matrix of (len(a)+1)*(len(b)+1) instead
     c=[]
     for i in range(len_a+1):
         c.append([0]*(len_b+1))
-        
     for j in range(len_a+1):
         c[j][0]=j
-    
     for k in range(len_b+1):
         c[0][k]=k
-        
+    
+    #we take iterations on both string a and b
+    #next, we check if a[m]==b[n]
+    #if yes, no replacement needed
+    #if no, replacement needed
+    #we take a minimum functions to see which combinations would give the minimum steps
+    #eventually we got what we are after
     for l in range(1,len_a+1):
         for m in range(len_b+1):
             if a[l-1]==b[m-1]:
@@ -80,10 +87,9 @@ def edit(a,b):
                 
     return c[len_a][len_b]
 
+#lets get some random strings to test
 import random as rd
-
-
-    
+   
 temp=rd.randint(1,20)
 temp1=rd.randint(1,20)
 alphabet='abcdefghijklmnopqrstuvwxyz'

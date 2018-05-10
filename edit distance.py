@@ -20,6 +20,18 @@ Created on Mon Mar 19 15:22:38 2018
 #however, given lists start at index zero
 #our matrix should be (len(a)+1)*(len(b)+1)
 
+#there are three different ways to transform a string
+#insert, delete and replace
+#we can use any of them or combined
+#lets take a look at the best case first
+#assume string a is string b
+#we dont need to do anything
+#so 0 steps would be the answer
+#for the worst case
+#when string a has nothing in common with string b
+#we would have to replace the whole string a
+#the steps become the maximum step which is max(len(a),len(b))
+
 def edit(a,b):
     len_a=len(a)
     len_b=len(b)

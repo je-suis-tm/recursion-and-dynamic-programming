@@ -12,8 +12,6 @@ Created on Mon Mar 19 15:22:38 2018
 #its kinda tricky to understand
 
 #edit distance is to minimumize the steps transfering one string to another
-#there are three ways to transform a string, insert, delete and replace
-
 #the way to solve this problem, is very similar is to knapsack
 #assume we have two strings a and b
 #we build a matrix len(a)*len(b)
@@ -31,7 +29,34 @@ Created on Mon Mar 19 15:22:38 2018
 #when string a has nothing in common with string b
 #we would have to replace the whole string a
 #the steps become the maximum step which is max(len(a),len(b))
-
+#for general case, the steps would fall between the worst and the best case
+#assume we are at mth letter of string a and nth letter string b
+#if we wanna get the optimized steps of transforming string a to string b
+#we have to make sure at each letter transformation
+#a[:m] and b[:n] have reached their optimization
+#otherwise, we could always find another combinations of insert, delete and replace
+#to get a more optimized a[:m] and b[:n]
+#it would make our string transformation not so optimized any more
+#it is the same logic as the optimization of knapsack problem
+#after we set our logic straight
+#we would take a look at three different approaches
+#lets take a look at insertion
+#basically we need to insert nth letter from string b into string a at nth position
+#the cumulated steps we have taken should be matrix[m][n-1]+1
+#matrix[m][n-1] is the steps for a[:m] to b[:n]
+#for delete, it is vice versa
+#the cumulated steps we have taken should be matrix[m-1][n]+1
+#for replacement, it is a lil bit tricky
+#there are two scenarios
+#if len(a)==len(b)
+#it should be matrix[m-1][n-1]
+#we are replacing mth letter of string a with nth letter of string b
+#the process is simultaneous
+#else, it should be matrix[m-1][n-1]+1
+#after we managed to understand three different approaches
+#we want to take the minimum steps among these three approaches
+#throughout the iteration of different positions of both strings
+#in the end, we would get the optimized steps to transform one string to another, YAY
 def edit(a,b):
     len_a=len(a)
     len_b=len(b)

@@ -20,6 +20,6 @@ Its a free interactive book, quite good and quite difficult. I basically upload 
 
 # Dynamic Programming
 
-6.Knapsack
+1.Knapsack
 
-7.Edit Distance
+2.Edit Distance

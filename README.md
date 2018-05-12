@@ -6,7 +6,7 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 Its a free interactive book, quite good and quite difficult. I basically upload what I have learned about different algorithms to this repository.
 
-# Recursion Problems
+# Recursion
 
 1.Fibonacci
 
@@ -23,3 +23,5 @@ Its a free interactive book, quite good and quite difficult. I basically upload 
 1.Knapsack
 
 2.Edit Distance
+
+# Graph

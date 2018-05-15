@@ -5,6 +5,10 @@ Created on Mon Mar 19 15:22:38 2018
 @author: Administrator
 """
 
+#explanation can be found in dynamic programming version
+# https://github.com/tattooday/recursion/blob/master/edit%20distance%20dynamic%20programming.py
+#the only problem with recursion is that it is so freaking slow
+#recursion is so inefficient in python
 def f(a,b):
     
     if a=='' or b=='':

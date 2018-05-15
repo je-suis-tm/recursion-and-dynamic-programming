@@ -4,7 +4,7 @@ I am reading a book called algorithm and data structure using python
 
 http://interactivepython.org/runestone/static/pythonds/index.html
 
-Its a free interactive book, quite good and quite difficult. I basically upload what I have learned about different algorithms to this repository.
+Its a free interactive book, quite good and quite difficult. I basically upload what I have learned about different algorithms to this repository. Dynamic programming happened to be in the same chapter with recursion. That is why its involved here.
 
 # Recursion
 

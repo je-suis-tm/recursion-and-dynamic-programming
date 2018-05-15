@@ -22,6 +22,5 @@ Its a free interactive book, quite good and quite difficult. I basically upload 
 
 1.Knapsack
 
-2.Edit Distance
+2.Edit Distance (can be done in recursion)
 
-# Graph

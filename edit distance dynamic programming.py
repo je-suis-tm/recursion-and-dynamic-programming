@@ -7,6 +7,7 @@ Created on Mon Mar 19 15:22:38 2018
 
 #its also called levenshtein distance
 #it can be done via recursion too
+# https://github.com/tattooday/recursion/blob/master/edit%20distance%20recursion.py
 
 #edit distance is to minimumize the steps transfering one string to another
 #the way to solve this problem, is very similar is to knapsack

@@ -5,11 +5,8 @@ Created on Mon Mar 19 15:22:38 2018
 @author: Administrator
 """
 
-#this has nothing to do with recursion algorithm
-#it happened to be in the recursion chapter in my book
-#so i kept it under recursion
-#its about dynamic programming
-#its kinda tricky to understand
+#its also called levenshtein distance
+#it can be done via recursion too
 
 #edit distance is to minimumize the steps transfering one string to another
 #the way to solve this problem, is very similar is to knapsack

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Apr 13 17:06:21 2018
-
-@author: terry.mai
 """
 import datetime as dt
 

@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# this is a test on how recursion with memory reduces time complexity
+#this is a test on how recursion with memory reduces time complexity
 
 #i need a global dictionary to do the memorization
 #or i can change function fib(n) into fib(n,mem)
@@ -25,8 +25,8 @@ def fib(n):
         mem[n]=(fib(n-1)+fib(n-2))
         return mem[n]
 
-    #this is the fibonacci recursion function without memory
-    #it is basically algorithm 101 for any coding language
+#this is the fibonacci recursion function without memory
+#it is basically algorithm 101 for any coding language
 def f(n):
     if n==1:
         return 1
@@ -35,8 +35,8 @@ def f(n):
     else:
         return f(n-1)+f(n-2)
 
-    # i calculate how long these two functions take
-    #print out the comparison
+#i calculate how long these two functions take
+#print out the comparison
 def compare(n):
     t1=dt.datetime.now()
     f(n)
@@ -49,14 +49,4 @@ def compare(n):
     print('recursion with memory: ',t2-t1)
 
 
-
-
-
 compare(20)
-
-
-
-
-
-
-

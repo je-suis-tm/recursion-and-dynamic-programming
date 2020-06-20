@@ -1,6 +1,6 @@
 # Recursion and Dynamic Programming Implementation
 
-This is a repository for Julia/Python algorithm learning. Hopefully it can help you along your way towards mastering Python algorithms. Please refer to the following link for the details of recursion and dynamic programming in Python.
+This is a repository for Julia/Python algorithm learning. Hopefully it can help you along your way towards mastering recursion algorithms and dynamic programming. Please refer to the following link for the details of recursion and dynamic programming in Python.
 
 http://interactivepython.org/runestone/static/pythonds/index.html
 

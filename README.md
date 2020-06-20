@@ -14,7 +14,7 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 4. Palindrome (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/palindrome%20checker%204%20methods.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/palindrome%20checker%204%20methods.py>Python</a>)
 
-5. Pascal Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/pascal%20triangle%20better%20structured.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/pascal%20triangle%20better%20structured.py>Python</a>)
+5. Pascal Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/pascal%20triangle%20with%20memoization.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/pascal%20triangle%20with%20memoization.py>Python</a>)
 
 6. Edit Distance (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20recursion.py>Python</a>)
 

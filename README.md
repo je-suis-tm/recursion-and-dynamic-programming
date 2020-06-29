@@ -18,6 +18,10 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 6. Edit Distance (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20recursion.py>Python</a>)
 
+7. Sierpiński Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.jl>Julia</a>,<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.py>Python</a>)
+
+8. Sierpiński Carpet (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.jl>Julia</a>,<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.py>Python</a>)
+
 # Dynamic Programming
 
 1. Knapsack (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.py>Python</a>)

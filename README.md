@@ -1,6 +1,6 @@
 # Recursion and Dynamic Programming Implementation
 
-This is a repository for Julia/Python algorithm learning. Hopefully it can help you along your way towards mastering recursion algorithms and dynamic programming. Please refer to the following link for the details of recursion and dynamic programming in Python.
+This is a repository for Julia/Python algorithm learning. Hopefully it can help you along your way towards mastering recursion algorithms and dynamic programming. As we all know, there are two approaches to do dynamic programming, tabulation (bottom up, solve small problem then the bigger ones) and memoization (top down, solve big problem then the smaller ones). In this repository, tabulation will be categorized as dynamic programming and memoization will be categorized as optimization in recursion. Please refer to the following link for the details of recursion and dynamic programming in Python.
 
 http://interactivepython.org/runestone/static/pythonds/index.html
 

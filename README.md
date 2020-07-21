@@ -22,9 +22,12 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 8. Sierpiński Carpet (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.py>Python</a>)
 
+9. Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20recursion.py>Python</a>)
+
 # Dynamic Programming
 
 1. Knapsack (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.py>Python</a>)
 
 2. Edit Distance (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20dynamic%20programming.py>Python</a>)
 
+3. Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.py>Python</a>)

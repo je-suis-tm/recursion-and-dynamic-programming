@@ -24,6 +24,8 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 9. Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20recursion.py>Python</a>)
 
+10. Stock Trading (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.py>Python</a>)
+
 # Dynamic Programming
 
 1. Knapsack (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.py>Python</a>)
@@ -31,3 +33,5 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 2. Edit Distance (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20dynamic%20programming.py>Python</a>)
 
 3. Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.py>Python</a>)
+
+4. Stock Trading (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20dynamic%20programming.py>Python</a>)

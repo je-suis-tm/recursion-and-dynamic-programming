@@ -1,3 +1,8 @@
+# coding: utf-8
+
+
+# In[1]: 
+
 
 #a simple day trading game
 #day trader is only allowed to make at maximum two trades
@@ -11,6 +16,10 @@
 #its done by using a different approach
 #strongly recommend you to take a look
 # https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20dynamic%20programming.jl
+
+
+# In[2]:
+
 
 #compute the maximum profit for long only strategy
 function compute_profit(prices)
@@ -71,6 +80,10 @@ function compute_profit(prices)
     
 end
 
+
+# In[3]:
+
+
 #there are two scenarios to maximize the profit
 #one trade or two trades
 #since we can execute two transactions
@@ -97,10 +110,26 @@ function stock_trading(prices,ind)
     
 end
 
+
+# In[4]:
+
+
 stock_trading([10,22,5,75,65,80],1)
+
+
+# In[5]:
+
 
 stock_trading([2,30,15,10,8,25,80],1)
 
+
+# In[6]:
+
+
 stock_trading([100,30,15,10,8,25,80],1)
+
+
+# In[7]:
+
 
 stock_trading([90,70,35,11,5],1)

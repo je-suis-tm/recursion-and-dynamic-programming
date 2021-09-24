@@ -26,6 +26,8 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 * Stock Trading (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.py>Python</a>)
 
+* Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>,<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
+
 # Dynamic Programming
 
 * Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.py>Python</a>)

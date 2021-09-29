@@ -20,13 +20,18 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 * Prime Factorization (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/factorization.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/factorization.py>Python</a>)
 
+* Stock Trading (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.py>Python</a>)
+
+# Fractal Geometry
+
+* Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>,<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
+
+* Koch Snowflake (Julia,<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.py>Python</a>)
+
 * Sierpiński Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.py>Python</a>)
 
 * Sierpiński Carpet (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.py>Python</a>)
 
-* Stock Trading (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.py>Python</a>)
-
-* Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>,<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
 
 # Dynamic Programming
 

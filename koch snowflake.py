@@ -185,3 +185,10 @@ plt.scatter([i[0] for i in coordinates],
             [i[1] for i in coordinates],s=0.5)
 plt.axis('off')
 plt.show()
+
+
+# In[10]:
+
+
+#turtle version of koch snowflake
+# https://www.geeksforgeeks.org/koch-curve-koch-snowflake/

@@ -26,7 +26,7 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 * Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
 
-* Koch Snowflake (Julia, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.py>Python</a>)
+* Koch Snowflake (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.py>Python</a>)
 
 * Sierpiński Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.py>Python</a>)
 

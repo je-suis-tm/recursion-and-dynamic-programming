@@ -1,10 +1,12 @@
 # Recursion and Dynamic Programming
 
+## Intro
+
 This is a repository for Julia/Python algorithm learning. Hopefully it can help you along your way towards mastering recursion algorithms, fractal patterns and dynamic programming. As we all know, there are two approaches to do dynamic programming, tabulation (bottom up, solve small problem then the bigger ones) and memoization (top down, solve big problem then the smaller ones). In this repository, tabulation will be categorized as dynamic programming and memoization will be categorized as optimization in recursion. Please refer to the following link for the details of recursion and dynamic programming in Python.
 
 http://interactivepython.org/runestone/static/pythonds/index.html
 
-# Recursion
+## Recursion
 
 * Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20recursion.py>Python</a>)
 
@@ -22,7 +24,7 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 * Stock Trading (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/stock%20trading%20recursion.py>Python</a>)
 
-# Fractal Geometry
+## Fractal Geometry
 
 * Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
 
@@ -40,7 +42,7 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 ![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/sierpi%C5%84ski%20triangle.png)
 
-# Dynamic Programming
+## Dynamic Programming
 
 * Coin Change (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/coin%20change%20dynamic%20programming.py>Python</a>)
 

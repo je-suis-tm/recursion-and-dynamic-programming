@@ -26,12 +26,19 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 * Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
 
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/hilbert%20curve.png)
+
 * Koch Snowflake (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.py>Python</a>)
 
-* Sierpiński Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.py>Python</a>)
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/koch%20snowflake.png)
 
 * Sierpiński Carpet (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.py>Python</a>)
 
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/sierpi%C5%84ski%20carpet.png)
+
+* Sierpiński Triangle (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20triangle.py>Python</a>)
+
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/sierpi%C5%84ski%20triangle.png)
 
 # Dynamic Programming
 

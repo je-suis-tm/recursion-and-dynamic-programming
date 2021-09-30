@@ -169,7 +169,7 @@ n=4
 
 #collect coordinates
 arr=list(koch_snowflake(point1,point2,point3,n))+list(
-    koch_snowflake(point1,point3,point2,n))+list(
+    koch_snowflake(point3,point1,point2,n))+list(
     koch_snowflake(point2,point3,point1,n))+[(point1,point2,point3)]
 coordinates=[j for i in arr for j in i]
 

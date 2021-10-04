@@ -65,7 +65,7 @@ end
 
 #annoying feature of julia
 #plot wont show up in a loop unless i specify
-fig=plot(legend=false,grid=false,axis=false)
+fig=plot(legend=false,grid=false,axis=false,showaxis=false)
 
 sierpiński_triangle([(0,0),(0.5,1),(1,0)],4,fig)
 

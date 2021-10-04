@@ -104,7 +104,7 @@ end
 
 #annoying feature of julia
 #plot wont show up in a loop unless i specify
-fig=plot(legend=false,grid=false,axis=false)
+fig=plot(legend=false,grid=false,axis=false,showaxis=false)
 
 sierpiński_carpet(coordinates,4,fig)
 

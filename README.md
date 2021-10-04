@@ -26,6 +26,10 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 ## Fractal Geometry
 
+* Cantor Set (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/cantor%20set.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/cantor%20set.py>Python</a>)
+
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/cantor%20set.png)
+
 * Hilbert Curve (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/hilbert%20curve.py>Python</a>)
 
 ![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/hilbert%20curve.png)

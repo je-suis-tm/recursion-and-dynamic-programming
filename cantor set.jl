@@ -37,7 +37,7 @@ rectangle(w,h,x,y)=Shape(x.+[0,w,w,0],y.-[0,0,h,h])
 #we remove the mid part from each bar and keep the rest
 #this effectively creates a binary tree
 #check the link below for more details on math
-# https//www.math.stonybrook.edu/~scott/Book331/Cantor_sets.html
+# https://www.math.stonybrook.edu/~scott/Book331/Cantor_sets.html
 function cantor_set(x1,x2,y,n,
                bar_height=5,between_interval=10)
     
@@ -70,6 +70,7 @@ end
 #viz
 #as n increases
 #the bar gets too slim to be visible
+gr(size=(250,250))
 fig=plot(legend=false,grid=false,axis=false,ticks=false)
 plot!(rectangle((x2-x1),bar_height,x1,y))
 cantor_set(x1,x2,y,n)

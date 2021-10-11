@@ -34,6 +34,10 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 
 ![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/hilbert%20curve.png)
 
+* Jerusalem Cross (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/jerusalem%20cross.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/jerusalem%20cross.py>Python</a>)
+
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/jerusalem%20cross.png)
+
 * Koch Snowflake (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/koch%20snowflake.py>Python</a>)
 
 ![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/koch%20snowflake.png)

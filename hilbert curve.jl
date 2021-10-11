@@ -130,9 +130,11 @@ coordinates=hilbert_curve([],
 
 
 #viz
+gr(size=(250,250))
 fig=plot(legend=false,grid=false,axis=false,ticks=false)
 plot!([i[1] for i in coordinates],
         [i[2] for i in coordinates])
+fig
 
 
 

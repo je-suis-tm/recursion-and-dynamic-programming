@@ -2,9 +2,11 @@
 
 ## Intro
 
-This is a repository for Julia/Python algorithm learning. Hopefully it can help you along your way towards mastering recursion algorithms, fractal patterns and dynamic programming. As we all know, there are two approaches to do dynamic programming, tabulation (bottom up, solve small problem then the bigger ones) and memoization (top down, solve big problem then the smaller ones). In this repository, tabulation will be categorized as dynamic programming and memoization will be categorized as optimization in recursion. Please refer to the following link for the details of recursion and dynamic programming in Python.
+On par with most of my repositories, this one didn’t start off with great ambition. It was merely an archive of LeetCode problems and solutions. For a problem like edit distance, there are two approaches – memoization (top down, solve big problem then the smaller ones) and tabulation (bottom up, solve small problem then the bigger ones). Conventionally, memoization approach is called recursion and tabulation approach is called dynamic programming. They used to be the core features of this repository.
 
-http://interactivepython.org/runestone/static/pythonds/index.html
+Oddly enough, this repository didn’t help me beat any interview related to recursion or dynamic programming :joy: but it became entrepôt of my interest in fractal geometry :yum: I suppose I am pretty good at making lemonade when life gives me :lemon: (salute to Riley Reid :stuck_out_tongue_closed_eyes:) Jokes aside, a fractal is a mathematical set that exhibits a repeating pattern that displays at every scale. It can be modeled by using recursive algorithms or L-systems techniques. Fractal patterns will be the core feature of this repository in the foreseeable future.
+
+Whether you are here for algorithm and data structure or for the niche branch of geometry, I sincerely hope this repository helps you along the way, and perhaps boldly take you somewhere you have never gone before :vulcan_salute:
 
 ## Recursion
 

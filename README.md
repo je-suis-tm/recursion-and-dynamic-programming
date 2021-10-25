@@ -44,6 +44,10 @@ Whether you are here for algorithm and data structure or for the niche branch of
 
 ![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/koch%20snowflake.png)
 
+* Pythagorean Tree (Julia, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/pythagorean%20tree.py>Python</a>)
+
+![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/pythagorean%20tree.png)
+
 * Sierpiński Carpet (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/sierpi%C5%84ski%20carpet.py>Python</a>)
 
 ![alt text](https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/preview/sierpi%C5%84ski%20carpet.png)

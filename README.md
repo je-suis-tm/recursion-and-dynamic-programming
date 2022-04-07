@@ -62,6 +62,8 @@ Whether you are here for algorithm and data structure or for the niche branch of
 
 * Edit Distance (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20dynamic%20programming.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/edit%20distance%20dynamic%20programming.py>Python</a>)
 
+* Egg Drop (Julia, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/egg%20drop%20dynamic%20programming.py>Python</a>)
+
 * Knapsack (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack.py>Python</a>)
 
 * Knapsack Multiple Choice (<a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack%20multiple%20choice.jl>Julia</a>, <a href=https://github.com/je-suis-tm/recursion-and-dynamic-programming/blob/master/knapsack%20multiple%20choice.py>Python</a>)
